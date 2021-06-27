@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE premium",suryaTV_081235393956
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE premium",yachine
+http://6.amroutras.xyz/live/6262622200/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE premium",PPTV
+http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE premium",trueSport
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE premium",tSN
+http://stream.tvtap.live:8081/live/tsn1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE premium",RCTI
+http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=6-mp4a_64000_eng=2.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE 1",suryaTV_081235393956
 https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 1
@@ -24,7 +36,7 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 10
 http://ott-cdn.ucom.am/s83/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE 1",suryaTV_081235393956
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="[LIVE]",suryaTV_081235393956
 https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVE]",LIVE 1
 http://ott-cdn.ucom.am/s83/03.m3u8
