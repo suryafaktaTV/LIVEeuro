@@ -47,30 +47,30 @@ http://gooserace.xyz:2052/live/armando/armando/2594782.ts
 EXTINF:-1 tvg-logo="http://77.83.117.60:8888/02_NBTSD_480p/1624994528-38FC4906-88C04DE3.png" group-title="LIVE premium",NBT(TH)
 http://77.83.117.60:8888/02_NBTSD_480p/chunklist.m3u8
 
-EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE 1",suryaTV_081235393956
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE 1",suryaTV_081235393956
 https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
-EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 1
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 1
 https://f53112b70bc31005.mediapackage.ap-south-1.amazonaws.com/out/v1/add9eaca896f4797a3b79d0bcd842596/index_1.m3u8
-EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 2
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 2
 http://103.153.39.34:8000/play/a05r/index.m3u8
 00
-EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 3
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 3
 http://103.153.39.34:8000/play/a049/index.m3u8
-EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 4
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 4
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 5
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 5
 http://6.amroutras.xyz/live/6262622222/index.m3u8
-EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 6
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 6
 https://goldenlivektv.com/Bagi/Habis_720p_channel_ktv.mp4
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
-EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 7
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 7
 https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8 
-EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 8
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 9
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 9
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 10
-http://ott-cdn.ucom.am/s83/03.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 9
+http://91.126.141.13:1935/live/61/1800-def.m3u8
 
 EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="[LIVE]",suryaTV_081235393956
 https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
